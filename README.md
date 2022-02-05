@@ -1,8 +1,10 @@
-### Hi there 👋
+# Fernando Lopes [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-lopes-92a88869/)](https://www.linkedin.com/in/fernando-lopes-92a88869/)
+
+## Welcome to my profile
+
+- Some technologies I have worked with: ![React Badge](https://img.shields.io/badge/-React.js-7bdcfe) ![React Native Badge](https://img.shields.io/badge/-React%20Native-5488ff) ![Node Badge](https://img.shields.io/badge/-Node.js-4d8939).
 
 <!--
-**fernandolopes-38/fernandolopes-38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,6 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
