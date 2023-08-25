@@ -2,7 +2,7 @@
 
 ## Welcome to my profile
 
-- Some technologies I have worked with: ![React Badge](https://img.shields.io/badge/-React.js-7bdcfe) ![React Native Badge](https://img.shields.io/badge/-React%20Native-5488ff) ![Node Badge](https://img.shields.io/badge/-Node.js-4d8939).
+- Some technologies I have worked with: ![React Badge](https://img.shields.io/badge/-React.js-7bdcfe) ![React Native Badge](https://img.shields.io/badge/-React%20Native-5488ff) ![Node Badge](https://img.shields.io/badge/-Node.js-4d8939) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white).
 
 <!--
 Here are some ideas to get you started:
